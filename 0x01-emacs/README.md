@@ -1,0 +1,1 @@
+This project is going over the basics of EMACS
